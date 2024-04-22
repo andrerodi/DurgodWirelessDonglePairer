@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="GBK" ?>
+<MSG>
+    <AXISBODY>
+        <axis ID="0" NAME="樱桃青轴" ENAME="Cherry Blue Switch" />
+        <axis ID="1" NAME="樱桃红轴" ENAME="Cherry Red Switch" />
+        <axis ID="2" NAME="樱桃茶轴" ENAME="Cherry Brown Switch" />
+        <axis ID="3" NAME="樱桃黑轴" ENAME="Cherry Black Switch" />
+        <axis ID="4" NAME="樱桃银轴" ENAME="Cherry Speed Silver Switch" />
+        <axis ID="5" NAME="樱桃静音红轴" ENAME="Cherry Silent Red Switch" />
+        <axis ID="6" NAME="樱桃静音黑轴" ENAME="Cherry Silent Black Switch" />
+        <axis ID="7" NAME="樱桃绿轴" ENAME="Cherry Green Switch" />
+        <axis ID="8" NAME="樱桃白轴" ENAME="Cherry Clear Switch" />
+        <axis ID="9" NAME="樱桃奶轴" ENAME="Cherry White Switch" />
+        <axis ID="10" NAME="樱桃段落灰轴" ENAME="Cherry Paragraph Gray Switch" />
+        <axis ID="11" NAME="樱桃线性灰轴" ENAME="Cherry Linear Gray Switch" />
+        <axis ID="12" NAME="BOX 白轴" ENAME="Kailh BOX White Switch" />
+        <axis ID="13" NAME="BOX 红轴" ENAME="Kailh BOX Red Switch" />
+        <axis ID="14" NAME="BOX 茶轴" ENAME="Kailh BOX Brown Switch" />
+        <axis ID="15" NAME="BOX 黑轴" ENAME="Kailh BOX Black Switch" />
+        <axis ID="16" NAME="BOX 翡翠绿轴" ENAME="Kailh BOX Jade Switch" />
+        <axis ID="17" NAME="佳达隆RGB青轴" ENAME="Gateron RGB-Blue Switch" />
+        <axis ID="18" NAME="佳达隆RGB红轴" ENAME="Gateron RGB-Red Switch" />
+        <axis ID="19" NAME="佳达隆RGB茶轴" ENAME="Gateron RGB-Brown Switch" />
+        <axis ID="20" NAME="佳达隆RGB静音茶轴" ENAME="Gateron RGB-Silent Brown Switch" />
+        <axis ID="21" NAME="佳达隆RGB黄轴" ENAME="Gateron RGB-Yellow Switch" />
+        <axis ID="22" NAME="佳达隆RGB黑轴" ENAME="Gateron RGB-Black Switch" />
+        <axis ID="23" NAME="樱桃RGB黑轴" ENAME="Cherry RGB Black Switch" />
+        <axis ID="24" NAME="樱桃RGB青轴" ENAME="Cherry RGB Blue Switch" />
+        <axis ID="25" NAME="樱桃RGB红轴" ENAME="Cherry RGB Red Switch" />
+        <axis ID="26" NAME="樱桃RGB茶轴" ENAME="Cherry RGB Brown Switch" />
+        <axis ID="27" NAME="樱桃RGB银轴" ENAME="Cherry RGB Speed Silver Switch" />
+        <axis ID="28" NAME="樱桃RGB静音红轴" ENAME="Cherry RGB Silent Red Switch" />
+        <axis ID="29" NAME="樱桃RGB静音黑轴" ENAME="Cherry RGB Silent Black Switch" />
+        <axis ID="30" NAME="黑晶青轴" ENAME="Dark Crystal Blue Switch" />
+        <axis ID="31" NAME="黑晶红轴" ENAME="Dark Crystal Red Switch" />
+        <axis ID="32" NAME="黑晶茶轴" ENAME="Dark Crystal Brown Switch" />
+        <axis ID="33" NAME="黑晶黄轴" ENAME="Dark Crystal Yellow Switch" />
+        <axis ID="34" NAME="黑晶银轴" ENAME="Dark Crystal Speed Silver Switch" />
+        <axis ID="35" NAME="黑晶静音红轴" ENAME="Dark Crystal Silent Red Switch" />
+    </AXISBODY>
+    <SHELLCOLOR>
+        <color ID="0" NAME="天然白" ENAME="Nature White" />
+        <color ID="1" NAME="深空灰" ENAME="Space Gray" />
+        <color ID="2" NAME="深空紫" ENAME="Space Purple" />
+        <color ID="3" NAME="典雅白" ENAME="Elegant White" />
+        <color ID="4" NAME="曜石黑" ENAME="Obsidian Black" />
+        <color ID="5" NAME="粉色" ENAME="Sweet Pink" />
+        <color ID="6" NAME="黑色" ENAME="Black" />
+        <color ID="7" NAME="奶白" ENAME="Cream White" />
+        <color ID="8" NAME="碳黑" ENAME="Carbon Black" />
+        <color ID="9" NAME="白色" ENAME="White" />
+        <color ID="10" NAME="复古白-灰/白/橙" ENAME="ORIGINAL-Gray/White/Orange" />
+        <color ID="11" NAME="蒸汽灰-灰/黑/红" ENAME="STEAM-Gray/Black/Red" />
+        <color ID="12" NAME="航海蓝-蓝/白/黄" ENAME="NAVIGATOR-Blue/White/Yellow" />
+        <color ID="13" NAME="晴空蓝" ENAME="Sky Blue" />
+        <color ID="14" NAME="警戒线-黑/灰/橙" ENAME="NO ENTRY-Black/Gray/Orange" />
+        <color ID="15" NAME="离子风暴- 黑/白/蓝" ENAME="ION STORM-Black/White/Blue" />
+        <color ID="16" NAME="薄荷糖-绿/白" ENAME="MINT- Green/White" />
+        <color ID="17" NAME="冰淇淋-紫/蓝/灰" ENAME="ICECREAM-Purple/Blue/Gray" />
+        <color ID="18" NAME="苍峦墨" ENAME="Dark Green" />
+        <color ID="19" NAME="浅雾蓝" ENAME="Haze Blue" />
+    </SHELLCOLOR>
+    <LIGHTING>
+        <light ID="0" NAME="无光" ENAME="" />
+        <light ID="1" NAME="LED-RGB" ENAME="LED-RGB" />
+        <light ID="2" NAME="LED-红蓝光" ENAME="LED-Red &amp; Blue" />
+        <light ID="3" NAME="LED-白光" ENAME="LED-White" />
+        <light ID="4" NAME="LED-冰蓝光" ENAME="LED-Ice Blue" />
+    </LIGHTING>
+    <KEYHAT>
+        <keyhat ID="0" NAME="PBT" />
+        <keyhat ID="1" NAME="热升华" />
+        <keyhat ID="2" NAME="ABS" />
+        <keyhat ID="3" NAME="原厂高度" />
+    </KEYHAT>
+    <TEXTVERSIONS>
+        <textversion ID="0" TEXT="US（简体中文版）" NAME="US文" ENAME="US" />
+        <textversion ID="1" TEXT="UK（英文版）" NAME="UK文" ENAME="UK" />
+        <textversion ID="2" TEXT="KR（韩文版）" NAME="KR文" ENAME="KR" />
+        <textversion ID="3" TEXT="JP（日文版）" NAME="JP文" ENAME="JP" />
+        <textversion ID="4" TEXT="DE（德文版）" NAME="DE文" ENAME="DE" />
+        <textversion ID="5" TEXT="RU（俄文版）" NAME="RU文" ENAME="RU" />
+    </TEXTVERSIONS>
+    <SN>
+        <sn FACTURE_ID="1" YEAR="22" MONTH="02" COUNT="2" SN_NO="3" />
+    </SN>
+    <count facid="1" YEAR="20" MONTH="02" COUNT="3" />
+    <count facid="1" YEAR="20" MONTH="03" COUNT="1" />
+    <count facid="1" YEAR="20" MONTH="04" COUNT="16" />
+    <count facid="1" YEAR="20" MONTH="05" COUNT="6" />
+    <count facid="1" YEAR="20" MONTH="06" COUNT="12" />
+    <count facid="1" YEAR="20" MONTH="07" COUNT="6" />
+    <count facid="1" YEAR="20" MONTH="08" COUNT="1" />
+    <count facid="1" YEAR="20" MONTH="09" COUNT="11" />
+    <count facid="1" YEAR="20" MONTH="10" COUNT="0" />
+    <count facid="1" YEAR="20" MONTH="11" COUNT="0" />
+    <count facid="1" YEAR="20" MONTH="12" COUNT="3" />
+    <count facid="1" YEAR="21" MONTH="01" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="02" COUNT="4" />
+    <count facid="1" YEAR="21" MONTH="03" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="04" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="05" COUNT="18" />
+    <count facid="1" YEAR="21" MONTH="06" COUNT="8" />
+    <count facid="1" YEAR="21" MONTH="07" COUNT="1" />
+    <count facid="1" YEAR="21" MONTH="08" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="09" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="10" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="11" COUNT="0" />
+    <count facid="1" YEAR="21" MONTH="12" COUNT="0" />
+    <count facid="1" YEAR="22" MONTH="01" COUNT="3" />
+</MSG>
